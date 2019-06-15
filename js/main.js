@@ -1,3 +1,4 @@
+'use strict'
 let bird, pipes, pipe, score;
 function setup(){
  createCanvas(600, 400);
